@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CIS261 Movie-guide-II", "CIS261 Movie-guide-II.pyproj", "{F7385314-D7F7-49CB-9706-FE44DAA74826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7385314-D7F7-49CB-9706-FE44DAA74826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7385314-D7F7-49CB-9706-FE44DAA74826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8355F5C7-DAC0-4ED7-86EE-9AA0FD0DAF7E}
+	EndGlobalSection
+EndGlobal
